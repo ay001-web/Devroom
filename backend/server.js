@@ -28,12 +28,14 @@ app.use('/api/execute', require('./routes/execute'));
 app.get('/api/health', (req, res) => res.json({ status: 'OK', uptime: process.uptime() }));
 
 // Serve React frontend in production
+/*
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, '../frontend/build')));
   app.get('*', (req, res) =>
     res.sendFile(path.join(__dirname, '../frontend/build/index.html'))
   );
 }
+  */
 
 // Socket.io
 require('./socket/socketHandler')(io);
