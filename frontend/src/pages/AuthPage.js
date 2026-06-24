@@ -146,12 +146,7 @@ export default function AuthPage() {
             Add REACT_APP_GOOGLE_CLIENT_ID in frontend/.env for Google sign-in
           </p>
         )}
-
-        {/* Demo credentials */}
-        <div style={{ marginTop:'20px', padding:'12px', background:'rgba(124,58,237,0.06)', border:'1px solid rgba(124,58,237,0.15)', borderRadius:'8px' }}>
-          <p style={{ fontSize:'11px', color:'var(--text3)', marginBottom:'6px', fontWeight:'600', textTransform:'uppercase', letterSpacing:'0.5px' }}>Demo Account</p>
-          <p style={{ fontSize:'12px', color:'var(--text2)', fontFamily:'JetBrains Mono' }}>vijesh@devroom.com / password123</p>
-        </div>
+        
       </motion.div>
 
       {/* Google GSI Script */}
