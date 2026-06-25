@@ -19,46 +19,46 @@ https://devroom-backend-hnbu.onrender.com/api/health
 ## 📸 Screenshots
 
 ### 1️⃣ Landing Page
-The landing page introduces DevRoom with its core features such as real-time collaborative coding, room creation, and multi-language code execution.
+Modern landing page showcasing DevRoom’s core features including real-time collaborative coding, room creation, and multi-language code execution.
 
 <p align="center">
-  <img src="./assets/devroom_1_landing_page.png" width="90%" />
+  <img src="./assets/devroom_1_landing_page.png" width="75%" />
 </p>
 
 ---
 
 ### 2️⃣ Login / Authentication Page
-Secure authentication system with Email/Password login and Google OAuth integration using JWT-based authorization.
+Secure authentication using Email/Password login and Google OAuth with JWT-based authorization.
 
 <p align="center">
-  <img src="./assets/devroom_2_login_page.png" width="55%" />
+  <img src="./assets/devroom_2_login_page.png" width="38%" />
 </p>
 
 ---
 
 ### 3️⃣ Dashboard
-The dashboard allows users to browse available coding rooms, filter by language, and manage their active sessions.
+Centralized dashboard to browse, filter, and manage public/private coding rooms.
 
 <p align="center">
-  <img src="./assets/devroom_3_dashboard.png" width="90%" />
+  <img src="./assets/devroom_3_dashboard.png" width="75%" />
 </p>
 
 ---
 
 ### 4️⃣ Create New Room
-Users can create public or private rooms, choose programming languages, and add custom tags for better collaboration.
+Create public or private coding rooms with language selection and privacy settings.
 
 <p align="center">
-  <img src="./assets/devroom_4_create_room.png" width="55%" />
+  <img src="./assets/devroom_4_create_room.png" width="40%" />
 </p>
 
 ---
 
 ### 5️⃣ Live Collaborative Editor
-Real-time code editor powered by collaborative syncing, code execution, and integrated live chat for team coding.
+Real-time collaborative code editor with live synchronization, code execution, and integrated chat.
 
 <p align="center">
-  <img src="./assets/devroom_5_editor_room.png" width="100%" />
+  <img src="./assets/devroom_5_editor_room.png" width="85%" />
 </p>
 
 
