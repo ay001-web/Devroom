@@ -18,19 +18,49 @@ https://devroom-backend-hnbu.onrender.com/api/health
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="./assets/devroom_1_landing_page.png" width="45%" />
-  <img src="./assets/devroom_2_login_page.png" width="45%" />
-</p>
+### 1️⃣ Landing Page
+The landing page introduces DevRoom with its core features such as real-time collaborative coding, room creation, and multi-language code execution.
 
 <p align="center">
-  <img src="./assets/devroom_3_dashboard.png" width="45%" />
-  <img src="./assets/devroom_4_create_room.png" width="45%" />
+  <img src="./assets/devroom_1_landing_page.png" width="90%" />
 </p>
 
+---
+
+### 2️⃣ Login / Authentication Page
+Secure authentication system with Email/Password login and Google OAuth integration using JWT-based authorization.
+
 <p align="center">
-  <img src="./assets/devroom_5_editor_room.png" width="95%" />
+  <img src="./assets/devroom_2_login_page.png" width="55%" />
 </p>
+
+---
+
+### 3️⃣ Dashboard
+The dashboard allows users to browse available coding rooms, filter by language, and manage their active sessions.
+
+<p align="center">
+  <img src="./assets/devroom_3_dashboard.png" width="90%" />
+</p>
+
+---
+
+### 4️⃣ Create New Room
+Users can create public or private rooms, choose programming languages, and add custom tags for better collaboration.
+
+<p align="center">
+  <img src="./assets/devroom_4_create_room.png" width="55%" />
+</p>
+
+---
+
+### 5️⃣ Live Collaborative Editor
+Real-time code editor powered by collaborative syncing, code execution, and integrated live chat for team coding.
+
+<p align="center">
+  <img src="./assets/devroom_5_editor_room.png" width="100%" />
+</p>
+
 
 ---
 
